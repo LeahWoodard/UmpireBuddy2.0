@@ -1,0 +1,29 @@
+<resources>
+    <string
+        name="app_name">Umpire Buddy
+    </string>
+    <string
+        name = "balls"> Balls
+    </string>
+    <string
+        name = "ball"> Ball
+    </string>
+    <string
+        name = "strikes"> Strikes
+    </string>
+    <string
+        name = "strike"> Strike
+    </string>
+    <string
+        name = "reset"> Reset
+    </string>
+    <string
+        name = "ball_count"> 0
+    </string>
+    <string
+        name = "strike_count"> 0
+    </string>
+    <string
+        name="exit">exit
+    </string>
+</resources>
