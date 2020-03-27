@@ -1,29 +1,25 @@
 <resources>
-    <string
-        name="app_name">Umpire Buddy
+    <string name="app_name">Umpire Buddy
     </string>
-    <string
-        name = "balls"> Balls
+    <string name="balls"> Balls
     </string>
-    <string
-        name = "ball"> Ball
+    <string name="ball"> Ball
     </string>
-    <string
-        name = "strikes"> Strikes
+    <string name="strikes"> Strikes
     </string>
-    <string
-        name = "strike"> Strike
+    <string name="strike"> Strike
     </string>
-    <string
-        name = "reset"> Reset
+    <string name="reset"> Reset
     </string>
-    <string
-        name = "ball_count"> 0
+    <string name="ball_count"> 0
     </string>
-    <string
-        name = "strike_count"> 0
+    <string name="strike_count"> 0
     </string>
-    <string
-        name="exit">exit
+    <string name="exit">exit
     </string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="about_page">Nathan Woodard\nUmpireBuddy 2.0</string>
+    <string name="back">Back</string>
+    <string name="about">About</string>
+    <string name = "out"></string>
 </resources>
